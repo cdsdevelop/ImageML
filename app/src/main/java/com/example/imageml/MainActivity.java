@@ -66,6 +66,8 @@ public class MainActivity extends AppCompatActivity {
 
         ImageView imageView1;
 
+        TextView tvGit;
+
         textView = findViewById(R.id.textView);
         button = findViewById(R.id.button);
         imageView = findViewById(R.id.imageView);
