@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1065704389825",
+    "project_id": "imageml-51ec0",
+    "storage_bucket": "imageml-51ec0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065704389825:android:c97bc86025d65efc086840",
+        "android_client_info": {
+          "package_name": "com.example.imageml"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065704389825-kh2r9q2n1ifterp3oc9nb17a5d73ahds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGuISG5fqb-WVb9i4cGIh7EplQGo6lo7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065704389825-kh2r9q2n1ifterp3oc9nb17a5d73ahds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
