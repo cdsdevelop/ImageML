@@ -64,6 +64,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        ImageView imageView1;
 
         textView = findViewById(R.id.textView);
         button = findViewById(R.id.button);
